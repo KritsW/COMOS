@@ -12,7 +12,7 @@
     <link rel="stylesheet" href="chrome://browser/content/contentSearchUI.css" />
     <link rel="stylesheet" href="chrome://activity-stream/content/css/activity-stream.css" />
   </head>
-  <!-- Cached: Wed, 11 Oct 2023 09:28:39 GMT -->
+  <!-- Cached: Wed, 11 Oct 2023 09:33:42 GMT -->
   <body class="activity-stream">
     <div id="header-asrouter-container" role="presentation"></div>
     <div id="root">
@@ -740,7 +740,7 @@ window.__STARTUP_STATE__ = {
 		},
 		"spocs": {
 			"spocs_endpoint": "https://spocs.getpocket.com/spocs",
-			"lastUpdated": 1697015009443,
+			"lastUpdated": 1697016817305,
 			"data": {
 				"settings": {
 					"feature_flags": {
@@ -859,4 +859,4 @@ window.__STARTUP_STATE__ = {
 	}
 };
 
-„Ä¬Ä`           e&jÇF¤gÿÿÿÿ       :about:home alt-data 1;12501,script version 20231009233052   °Û
+0ƒš•I           e&köF¥9ÿÿÿÿ       :about:home alt-data 1;12501,script version 20231009233052   °Û
