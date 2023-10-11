@@ -1,0 +1,3 @@
+https:safebrowsing.googleapis.com:443:.:^firstPartyDomain=safebrowsing.86868755-6b82-4842-b301-72671a0db32e.mozilla:3	0	19641	https:safebrowsing.googleapis.com:443:safebrowsing.googleapis.com:443::n:1699607092:h3:y:1697015007:n:^firstPartyDomain=safebrowsing.86868755-6b82-4842-b301-72671a0db32e.mozilla:|n:y:
+https:res-1.cdn.office.net:443:.:^partitionKey=%28https%2Csharepoint.com%29:3	0	19641	https:res-1.cdn.office.net:443:res-1.cdn.office.net:443::n:1697108893:h3:y:1697015007:n:^partitionKey=%28https%2Csharepoint.com%29:|n:y:
+https:substrate.office.com:443:.:^partitionKey=%28https%2Csharepoint.com%29:3	0	19641	https:substrate.office.com:443:substrate.office.com:443::n:1697101471:h3:y:1697015007:n:^partitionKey=%28https%2Csharepoint.com%29:|n:y:

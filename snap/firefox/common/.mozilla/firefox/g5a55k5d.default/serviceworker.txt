@@ -1,0 +1,13 @@
+9
+
+https://pim365-my.sharepoint.com/
+https://pim365-my.sharepoint.com/_layouts/15/odspserviceworkerproxy.aspx?swManifestName=spserviceworker&debug=false&bypass=false&userId=60387385-01d4-43b1-a9b4-4a4812cbd367&applications=%5B%7B%22id%22%3A%22STS%22%2C%22swPrefetchManifestName%22%3A%22stsserviceworkerprefetch%22%7D%2C%7B%22id%22%3A%22SPHome%22%7D%2C%7B%22id%22%3A%22SitePages%22%7D%2C%7B%22id%22%3A%22Embed%22%7D%2C%7B%22id%22%3A%22CreateGroup%22%7D%2C%7B%22id%22%3A%22TeamsLogon%22%7D%2C%7B%22id%22%3A%22SingleWebPart%22%7D%2C%7B%22id%22%3A%22VivaHome%22%7D%2C%7B%22id%22%3A%22VivaAmplify%22%7D%2C%7B%22id%22%3A%22BrokerLogon%22%7D%5D&defaultBrotli=true&prefetchFilebrowserPageInTeams=true
+true
+{c4f5b2bd-0568-4b82-a45f-5354ea4f5a83}
+1
+1697006521836855
+1697006522819499
+1697006510499420
+1
+true
+#

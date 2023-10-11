@@ -1,0 +1,7 @@
+# This file is created by ibus-daemon, please do not modify it.
+# This file allows processes on the machine to find the
+# ibus session bus with the below address.
+# If the IBUS_ADDRESS environment variable is set, it will
+# be used rather than this file.
+IBUS_ADDRESS=unix:abstract=/home/krits/.cache/ibus/dbus-NBjodUbe,guid=7571d945b70f35efef8cbd0965266319
+IBUS_DAEMON_PID=1703

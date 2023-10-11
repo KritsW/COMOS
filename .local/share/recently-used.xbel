@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/krits/lecture2/a.txt" added="2023-09-27T05:08:46.940991Z" modified="2023-09-27T05:08:46.940995Z" visited="2023-09-27T05:08:46.940991Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2023-09-27T05:08:46.940994Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/krits/lecture3/toRemove.txt" added="2023-09-27T06:26:30.915488Z" modified="2023-10-11T09:07:37.673184Z" visited="2023-09-27T06:26:30.915489Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2023-10-03T17:07:48.614411Z" count="6"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gedit %U&apos;" modified="2023-10-03T17:03:09.625375Z" count="1"/>
+          <bookmark:application name="snap.firefox" exec="&apos;gio open %u&apos;" modified="2023-10-11T09:07:37.660860Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2023-10-11T09:07:37.673181Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/krits/lecture3/mystery_out.txt" added="2023-09-27T06:27:31.217963Z" modified="2023-09-27T06:28:21.897792Z" visited="2023-09-27T06:27:31.217963Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2023-09-27T06:28:21.897790Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/krits/lecture3/Mystery.java" added="2023-09-27T06:28:14.826861Z" modified="2023-09-27T06:28:14.826864Z" visited="2023-09-27T06:28:14.826861Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2023-09-27T06:28:14.826863Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/krits/README.md" added="2023-10-11T08:59:17.813378Z" modified="2023-10-11T08:59:17.813382Z" visited="2023-10-11T08:59:17.813378Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2023-10-11T08:59:17.813380Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

@@ -1,0 +1,2 @@
+Error: Could not find or load main class Mystery
+Caused by: java.lang.ClassNotFoundException: Mystery
