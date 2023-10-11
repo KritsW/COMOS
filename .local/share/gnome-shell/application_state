@@ -2,9 +2,9 @@
 <application-state>
   <context id="">
     <application id="org.gnome.gedit.desktop" score="0" last-seen="1697014761"/>
-    <application id="firefox_firefox.desktop" score="53" last-seen="1697015438"/>
+    <application id="firefox_firefox.desktop" score="53" last-seen="1697016019"/>
     <application id="org.gnome.Nautilus.desktop" score="4" last-seen="1697014792"/>
-    <application id="org.gnome.Terminal.desktop" score="1460" last-seen="1697015434"/>
+    <application id="org.gnome.Terminal.desktop" score="1542" last-seen="1697016019"/>
     <application id="snap-store_ubuntu-software.desktop" score="17" last-seen="1697006422"/>
     <application id="update-manager.desktop" score="79" last-seen="1697007132"/>
   </context>
